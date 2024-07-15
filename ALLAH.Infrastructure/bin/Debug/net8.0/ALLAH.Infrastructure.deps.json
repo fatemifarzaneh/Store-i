@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ALLAH.Infrastructure/1.0.0": {
+        "dependencies": {
+          "LazZiya.TagHelpers": "6.0.2"
+        },
+        "runtime": {
+          "ALLAH.Infrastructure.dll": {}
+        }
+      },
+      "LazZiya.TagHelpers/6.0.2": {
+        "runtime": {
+          "lib/net6.0/LazZiya.TagHelpers.dll": {
+            "assemblyVersion": "6.0.2.0",
+            "fileVersion": "6.0.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ALLAH.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LazZiya.TagHelpers/6.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qYWVS9Mx61jmYrI+iNhw6vyH5u4W/VsAy0aTeKplNDU63K2WVSI7RdvWKSXuti0kZn+iQGkwpHz820ukCTTpPQ==",
+      "path": "lazziya.taghelpers/6.0.2",
+      "hashPath": "lazziya.taghelpers.6.0.2.nupkg.sha512"
+    }
+  }
+}

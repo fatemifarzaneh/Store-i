@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bDxWUr83XL+62DRtGTmSIWGz5SJf2xu8DbFGcnrQLx3vWPf2q8n+klWwXNjI0jP/Q1cC2JAWe9MAXjl54UZOfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maryam\\source\\repos\\ALLAH\\ALLAH.Infrastructure\\ALLAH.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maryam\\.nuget\\packages\\lazziya.taghelpers\\6.0.2\\lazziya.taghelpers.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
